@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yangtang.github.io/sitemap.xml
+Sitemap: https://YangTang.github.io/sitemap.xml
