@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://YangTang.github.io/sitemap.xml
+Sitemap: https://starstraws.github.io/sitemap.xml
